@@ -1,0 +1,12 @@
+C:\Users\Beebo\Desktop\.NET\lab2\ClassLibraryLab2\bin\Debug\net6.0\ClassLibraryLab2.deps.json
+C:\Users\Beebo\Desktop\.NET\lab2\ClassLibraryLab2\bin\Debug\net6.0\ClassLibraryLab2.dll
+C:\Users\Beebo\Desktop\.NET\lab2\ClassLibraryLab2\bin\Debug\net6.0\ClassLibraryLab2.pdb
+C:\Users\Beebo\Desktop\.NET\lab2\ClassLibraryLab2\obj\Debug\net6.0\ClassLibraryLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beebo\Desktop\.NET\lab2\ClassLibraryLab2\obj\Debug\net6.0\ClassLibraryLab2.AssemblyInfoInputs.cache
+C:\Users\Beebo\Desktop\.NET\lab2\ClassLibraryLab2\obj\Debug\net6.0\ClassLibraryLab2.AssemblyInfo.cs
+C:\Users\Beebo\Desktop\.NET\lab2\ClassLibraryLab2\obj\Debug\net6.0\ClassLibraryLab2.csproj.CoreCompileInputs.cache
+C:\Users\Beebo\Desktop\.NET\lab2\ClassLibraryLab2\obj\Debug\net6.0\ClassLibraryLab2.dll
+C:\Users\Beebo\Desktop\.NET\lab2\ClassLibraryLab2\obj\Debug\net6.0\ref\ClassLibraryLab2.dll
+C:\Users\Beebo\Desktop\.NET\lab2\ClassLibraryLab2\obj\Debug\net6.0\ClassLibraryLab2.pdb
+C:\Users\Beebo\Desktop\.NET\lab2\ClassLibraryLab2\obj\Debug\net6.0\ClassLibraryLab2.csproj.AssemblyReference.cache
+C:\Users\Beebo\Desktop\.NET\lab2\ClassLibraryLab2\obj\Debug\net6.0\refint\ClassLibraryLab2.dll

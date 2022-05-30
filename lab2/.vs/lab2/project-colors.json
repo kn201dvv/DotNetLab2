@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3764c8bb-a4cd-42f5-a32e-9bc0f65d8840": {
+      "ProjectGuid": "3764c8bb-a4cd-42f5-a32e-9bc0f65d8840",
+      "DisplayName": "lab2",
+      "ColorIndex": 0
+    },
+    "296fdf04-cad0-4e7d-b472-9145446bcf9e": {
+      "ProjectGuid": "296fdf04-cad0-4e7d-b472-9145446bcf9e",
+      "DisplayName": "ClassLibrary2",
+      "ColorIndex": 1
+    },
+    "516497d0-ae6e-4ed2-88f2-8ab42aa25625": {
+      "ProjectGuid": "516497d0-ae6e-4ed2-88f2-8ab42aa25625",
+      "DisplayName": "ClassLibraryLab2",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
